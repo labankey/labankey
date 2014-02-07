@@ -58,20 +58,10 @@ a:visited { color: #a0a; }
 .site {
   font-size: 115%;
   text-align: justify;
-  width: 42em;
-  margin: 3em auto 2em;
+  margin: 0 10px 12px;
   line-height: 1.5em;
 }
 
-@media only screen and (min-width: 481px) {
-  .site {
-    font-size: 115%;
-	text-align: justify;
-	width: 22em;
-	margin: 3em auto 2em;
-	line-height: 1.5em;
-  }
-}
 
 .header a {
   font-weight: bold;
