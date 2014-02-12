@@ -201,11 +201,13 @@ ul{
 table.wikitable > * > tr > td {
 	border: 1px #aaa solid;
 	padding: 0.2em;
+	text-align: center;
 }
 
 table.wikitable > * > tr > th {
 	border: 1px #aaa solid;
 	padding: 0.2em;
+	text-align: center;
 }
 
 table.wikitable {
