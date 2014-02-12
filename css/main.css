@@ -191,3 +191,8 @@ a.btn_main:visited{
 a.btn_main:hover{
 	color: black;
 }
+
+ul{
+	list-style-image: url(../images/check.png);
+	margin-left:25px;
+}	
