@@ -22,6 +22,7 @@ body {
 
 
 h1 { margin-bottom: 5px; font-size: 23px }
+h3 { margin-bottom: 6px;}
 p { margin: 1em 0; }
 
 a         { color: #00a; }
@@ -195,4 +196,5 @@ a.btn_main:hover{
 ul{
 	list-style-image: url(../images/check.png);
 	margin-left:25px;
+	margin-bottom: 28px;
 }	
